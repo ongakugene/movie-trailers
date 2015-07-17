@@ -1,5 +1,5 @@
 # Movie Trailers .:: Food for the Soul ::.
-## Repository: movie-trailers
+### Repository: movie-trailers
 #### *Note : This repository contains the code for an educational project. Regarding any assets and trailer video URLs, no copyright infringement is intended.
 
 The project uses a Python Data Structure and a generator script to render a web page for showcasing movie info and trailers.
