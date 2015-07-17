@@ -1,4 +1,6 @@
+# Project output files
 .idea/
+movies.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
